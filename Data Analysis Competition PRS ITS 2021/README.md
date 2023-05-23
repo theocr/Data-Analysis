@@ -1,0 +1,2 @@
+# Data Analysis Competition
+Folder ini memuat file-file yang berisi data analysis competition yang pernah saya lakukan dengan penyelenggara PRS ITS tahun 2021. Tujuan dari data analisis ini adalah untuk memprediksi cluster hunian yang akan dipilih oleh setiap pelanggan. Jika sekiranya terdapat kesalahan, masukan, saran dapat disampaikan kepada saya melalui email theocredositumorang@gmail.com. Terimakasih karena telah membaca
